@@ -35,7 +35,7 @@ jobs:
 
     - run: flutter --version
 
-    - run: flutter build apk --debug --build-number=${{ github.event.inputs.versionCode }} --build-name=${{ github.event.inputs.versionName }} --flavor prod
+    - run: flutter build apk --debug --build-number=${{ github.event.inputs.versionCode }} --build-name=${{ github.event.inputs.versionName }}
 
     - uses: actions/upload-artifact@v3
       with:
