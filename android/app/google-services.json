@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "727377594321",
+    "project_id": "ueno-245ba",
+    "storage_bucket": "ueno-245ba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727377594321:android:45a1a79dc0cac18bd742f0",
+        "android_client_info": {
+          "package_name": "com.test.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1FFlXQqWPSnzQY5JT_vaEPR-CH_XeOFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727377594321:android:93198fb04aefc4e1d742f0",
+        "android_client_info": {
+          "package_name": "com.tramline.ueno"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1FFlXQqWPSnzQY5JT_vaEPR-CH_XeOFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
